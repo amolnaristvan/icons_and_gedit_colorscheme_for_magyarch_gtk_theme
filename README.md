@@ -1,0 +1,1 @@
+# icons_and_gedit_colorscheme_for_magyarch_gtk_theme
